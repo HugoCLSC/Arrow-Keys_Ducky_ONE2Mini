@@ -21,3 +21,7 @@ After this the sript will run on startup.
 I didn't find a script for my keyboard layout (PT), and i needed one that 
 whould retain the AltGr and Right Shift functions.
 
+#1.	Still can't Shift + arrow key Select a frase.
+#2.	You wont go Up or left if the key is pressed and Left. It only preforms
+	Up or Left when the key goes up, while down and right the key can 
+	pressed and do the arrow function. 
